@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "ibm.qradar",
+  "versions": [
+    {
+      "commit": "68d3791f6cdeca42f42b49bc4a40d81cfb2c579b",
+      "tag": "",
+      "parsed_at": "2026-11-07T15:32:55.018848+00:00"
+    }
+  ]
+}
